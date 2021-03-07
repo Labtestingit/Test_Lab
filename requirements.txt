@@ -5,3 +5,5 @@ joblib==0.13.2
 sqlalchemy
 mysql-connector-python
 jupyter
+
+### New user addition
