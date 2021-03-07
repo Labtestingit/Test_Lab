@@ -7,3 +7,4 @@ mysql-connector-python
 jupyter
 
 ### New user addition
+### Added couple of lines for the new branch/new user newdev-brnachname
